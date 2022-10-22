@@ -22,5 +22,4 @@ xv6.out*
 submissions/
 ph
 barrier
-naive_c
-naive_c.c
+**/naive.c
