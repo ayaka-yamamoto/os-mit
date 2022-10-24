@@ -196,6 +196,7 @@ UPROGS=\
 	$U/_sleep\
 	$U/_naive\
 	$U/_pingpong\
+	$U/_primes\
 
 ifeq ($(LAB),$(filter $(LAB), pgtbl lock))
 UPROGS += \
